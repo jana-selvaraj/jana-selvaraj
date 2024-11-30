@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/janarthananselvaraj/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
-<a href="https://learn.microsoft.com/en-us/users/drsgomathi-3925/transcript/734e9akolqyzq0x?tab=tab-challenges&source=docs" target="_blank" rel="noopener noreferrer">
+<a href="https://learn.microsoft.com/en-us/users/janarthanans-8585/transcript/vpje2b20ex3q2kz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certification Transcript" />
 </a>
 
@@ -72,7 +72,7 @@
 - [For Researchers](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLPWZoyOhI1yikOnNxIeYny)
 
 <div align="right">
-  <a href="https://www.youtube.com/@gomstechtalks?sub_confirmation=1">
+  <a href="https://youtube.com/@startwithjana?si=7tXRWEejwq2DGLgf">
     <img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
   </a>
 </div>
