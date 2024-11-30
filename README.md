@@ -11,19 +11,11 @@
 <a href="https://learn.microsoft.com/en-us/users/janarthanans-8585/transcript/vpje2b20ex3q2kz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Certification%20Transcript-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certification Transcript" />
 </a>
-
 <br>
-
-
-  <a href="https://beacons.ai/techtutorial" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/E--book%20Store-%23FFA500.svg?style=for-the-badge&logo=bookstack&logoColor=white" alt="E-book Store" />
-  </a>
-  <a href="https://www.learnwithgoms.com/" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.c-sharpcorner.com/members/janarthanan-selvaraj/articles" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Ghost&logoColor=white" alt="Blog" />
   </a>
- 
- 
-</div>
+ </div>
 <hr>
 ✨ Welcome to my tech world! ✨ <br>
 🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
