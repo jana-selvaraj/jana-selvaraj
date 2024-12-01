@@ -55,6 +55,8 @@
 - [Explore Azure AI Services using Content Safety Studio](https://www.youtube.com/watch?v=46bXHpfYyJI&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=7)
 - [Analyze images in Vision Studio](https://www.youtube.com/watch?v=TSpPM3HDoxQ&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=3)
 - [Detect faces in Vision Studio](https://www.youtube.com/watch?v=eKoJF2otzBM&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=2)
+- [Read text in Vision Studio](https://www.youtube.com/watch?v=pRVwoJFmzbs&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=4)
+- [Explore Speech Studio](https://www.youtube.com/watch?v=vtVeP9qZYHc&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=1)
 
 <div align="right">
   <a href="https://youtube.com/@startwithjana?si=7tXRWEejwq2DGLgf">
