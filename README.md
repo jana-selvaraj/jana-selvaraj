@@ -28,21 +28,11 @@
 😊 Don't forget to check out my resources, blogs, and videos below! 🎥📖<br>
 <hr>
 
-# 📚 Authored Books 📚
+# 📚 Latest Blog Posts 📚
 
-<div align="center">
-  <img src="https://m.media-amazon.com/images/I/41NIOAfNQKL._SY445_SX342_.jpg" width="300" alt="Dynamics 365 Business Central Developer Certification Companion">
-  <img src="https://m.media-amazon.com/images/I/41PCbE9mCHL._SY445_SX342_.jpg" width="300" alt="Mastering Microsoft Dynamics Business Central">
-</div>
-
-<div align="center">
-  <a href="https://www.amazon.in/Dynamics-Business-Developer-Certification-Companion/dp/B0DDT7DL96/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%201-blue" alt="Buy Book 1">
-  </a>
-  <a href="https://www.amazon.in/Mastering-Microsoft-Dynamics-Business-Central/dp/B0CRTT1P4B/">
-    <img src="https://img.shields.io/badge/Buy%20Now-Book%202-blue" alt="Buy Book 2">
-  </a>
-</div>
+- [The Emergence of Small Langugage Models (SLM) - A Game Changer](https://www.c-sharpcorner.com/article/the-emergence-of-small-langugage-models-slm-a-game-changer/)
+- [Create Data Visualizations with Azure OpenAI Assistants](https://www.c-sharpcorner.com/article/create-data-visualizations-with-azure-openai-assistants/)
+- [Transforming your Ideas into Reality with GPT4o](https://www.c-sharpcorner.com/article/transforming-your-ideas-into-reality-with-gpt4o/)
 
 # 📺 Latest YouTube Videos and Playlists
 
