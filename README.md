@@ -50,9 +50,9 @@
 - [Azure AI Studio: Your Gateway to AI Innovation](https://www.youtube.com/watch?v=obicJcAQlWg)
 - [Chat with Your Own Data using Azure OpenAI](https://www.youtube.com/watch?v=cHWh22r6Dmo)
   
-### Data Analytics Series
-- [Tableau Tutorial Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLhJgfVeeQB9K2hVNbSEHlT)
-- [Tableau Prep Builder Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLgi7Acyi5D_f3B3VzCrwUp)
+### AI 900 Hands-on Lab Series
+- [Extract form data in Document Intelligence Studio](https://www.youtube.com/watch?v=CJid5E90nzA&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=8)
+- [Explore Azure AI Services using Content Safety](https://www.youtube.com/watch?v=46bXHpfYyJI&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=7)
 - [Python Visual in Power BI Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pK5J7AsKy9BQIa_Rp_RwuBF)
 - [Talend ETL Tutorial Series](https://www.youtube.com/watch?v=RwS3XqMZxuU&list=PL9FfW__Sm3pLUYbc4R0ERm4GVGxYO5dkx)
 
