@@ -46,22 +46,15 @@
 
 # 📺 Latest YouTube Videos and Playlists
 
-### Business Central & Dynamics 365
-- [What's new in Business Central 2023 Wave 2](https://www.youtube.com/watch?v=77PjgmhccA8)
-- [MB-820 Lab Series](https://www.youtube.com/watch?v=CF7syfQUowY&list=PL9FfW__Sm3pK6savqdAouBfLWSHMBHWdb)
-- [AL Coding Carnival - Event Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pJwfrhsYyiGUcfGCdGHdRgV)
-- [41 Days Functional Consultant BootCamp](https://www.youtube.com/watch?v=VBeKq3hhIzY&list=PL9FfW__Sm3pJ8xq3PLkGGfXhxjBMRu7LK)
-- [21 Days AL Programming BootCamp](https://www.youtube.com/watch?v=V76lMfaTxhU&list=PL9FfW__Sm3pLIBzfRpeoG7TpVeO22YUq4)
-- [Business Central Tutorial for Developers](https://www.youtube.com/watch?v=MXVgNsc6LrU&list=PL9FfW__Sm3pLgZkPec1oZs_EdjEt88fjn)
-
+### Generative AI Series
+- [Azure AI Studio: Your Gateway to AI Innovation](https://www.youtube.com/watch?v=obicJcAQlWg)
+- [Chat with Your Own Data using Azure OpenAI](https://www.youtube.com/watch?v=cHWh22r6Dmo)
+  
 ### Data Analytics Series
 - [Tableau Tutorial Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLhJgfVeeQB9K2hVNbSEHlT)
 - [Tableau Prep Builder Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLgi7Acyi5D_f3B3VzCrwUp)
 - [Python Visual in Power BI Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pK5J7AsKy9BQIa_Rp_RwuBF)
 - [Talend ETL Tutorial Series](https://www.youtube.com/watch?v=RwS3XqMZxuU&list=PL9FfW__Sm3pLUYbc4R0ERm4GVGxYO5dkx)
-
-### Special Series
-- [For Researchers](https://www.youtube.com/playlist?list=PL9FfW__Sm3pLPWZoyOhI1yikOnNxIeYny)
 
 <div align="right">
   <a href="https://youtube.com/@startwithjana?si=7tXRWEejwq2DGLgf">
