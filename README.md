@@ -34,6 +34,8 @@
 - [Create Data Visualizations with Azure OpenAI Assistants](https://www.c-sharpcorner.com/article/create-data-visualizations-with-azure-openai-assistants/)
 - [Transforming your Ideas into Reality with GPT4o](https://www.c-sharpcorner.com/article/transforming-your-ideas-into-reality-with-gpt4o/)
 
+  <br>
+
 # 📺 Latest YouTube Videos and Playlists
 
 ### Generative AI Series
