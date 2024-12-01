@@ -17,7 +17,7 @@
   </a>
  </div>
 <hr>
-✨ Welcome to my tech world! ✨ <br>
+✨ Step into my tech universe! ✨ <br>
 🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
 <br>📚 I've also authored two books to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
 
