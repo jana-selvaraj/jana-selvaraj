@@ -52,9 +52,9 @@
   
 ### AI 900 Hands-on Lab Series
 - [Extract form data in Document Intelligence Studio](https://www.youtube.com/watch?v=CJid5E90nzA&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=8)
-- [Explore Azure AI Services using Content Safety](https://www.youtube.com/watch?v=46bXHpfYyJI&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=7)
-- [Python Visual in Power BI Series](https://www.youtube.com/playlist?list=PL9FfW__Sm3pK5J7AsKy9BQIa_Rp_RwuBF)
-- [Talend ETL Tutorial Series](https://www.youtube.com/watch?v=RwS3XqMZxuU&list=PL9FfW__Sm3pLUYbc4R0ERm4GVGxYO5dkx)
+- [Explore Azure AI Services using Content Safety Studio](https://www.youtube.com/watch?v=46bXHpfYyJI&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=7)
+- [Analyze images in Vision Studio](https://www.youtube.com/watch?v=TSpPM3HDoxQ&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=3)
+- [Detect faces in Vision Studio](https://www.youtube.com/watch?v=eKoJF2otzBM&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=2)
 
 <div align="right">
   <a href="https://youtube.com/@startwithjana?si=7tXRWEejwq2DGLgf">
