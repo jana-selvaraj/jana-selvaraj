@@ -29,11 +29,9 @@
 <hr>
 
 # 📚 Latest Blog Posts 📚
-
 - [The Emergence of Small Langugage Models (SLM) - A Game Changer](https://www.c-sharpcorner.com/article/the-emergence-of-small-langugage-models-slm-a-game-changer/)
 - [Create Data Visualizations with Azure OpenAI Assistants](https://www.c-sharpcorner.com/article/create-data-visualizations-with-azure-openai-assistants/)
 - [Transforming your Ideas into Reality with GPT4o](https://www.c-sharpcorner.com/article/transforming-your-ideas-into-reality-with-gpt4o/)
-
   <br>
 
 # 📺 Latest YouTube Videos and Playlists
