@@ -19,7 +19,7 @@
 <hr>
 ✨ Step into my Tech Universe! ✨ <br>
 🚀 I am a Microsoft MVP, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
-<br>📚 I've also authored articles and blogs to help others master their tech journeys. Writing, teaching, and mentoring are my passions! 💡
+<br>📚I've crafted articles and blogs to guide others on their tech journeys. Sharing knowledge through writing, teaching, and mentoring is my true passion💡
 
 🌟 I specialize in AI, Microsoft Azure, Generative AI, and helping people unlock their potential with Microsoft technologies. <br>
 💻 "Learning never stops, and together, we can achieve more!" 🚴‍♀️
