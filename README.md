@@ -37,6 +37,9 @@
 
 # 📺 Latest YouTube Videos and Playlists
 
+### Agentic AI Series
+- [Develop AI Agents with Semantic Kernel](https://www.youtube.com/watch?v=TLI4P8aVH_I)
+
 ### Generative AI Series
 - [Azure AI Studio: Your Gateway to AI Innovation](https://www.youtube.com/watch?v=obicJcAQlWg)
 - [Chat with Your Own Data using Azure OpenAI](https://www.youtube.com/watch?v=cHWh22r6Dmo)
