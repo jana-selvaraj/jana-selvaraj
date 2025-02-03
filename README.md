@@ -36,15 +36,14 @@
 ▶️ [more blogs...](https://www.c-sharpcorner.com/members/janarthanan-selvaraj/articles)
 
 # 📺 Latest YouTube Videos and Playlists
-
+### DeepSeek-R1 Series
+- [Deploying a DeepSeek R1 using GitHub Model : Step-by-Step Guide](https://www.youtube.com/watch?v=1_ONF2pMnGQ)
 ### Agentic AI Series
 - [Develop AI Agents with Semantic Kernel](https://www.youtube.com/watch?v=TLI4P8aVH_I)
-
 ### Generative AI Series
 - [Azure AI Studio: Your Gateway to AI Innovation](https://www.youtube.com/watch?v=obicJcAQlWg)
 - [Chat with Your Own Data using Azure OpenAI](https://www.youtube.com/watch?v=cHWh22r6Dmo)
-  
-### AI 900 Hands-on Lab Series
+  ### AI 900 Hands-on Lab Series
 - [Extract form data in Document Intelligence Studio](https://www.youtube.com/watch?v=CJid5E90nzA&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=8)
 - [Explore Azure AI Services using Content Safety Studio](https://www.youtube.com/watch?v=46bXHpfYyJI&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=7)
 - [Analyze images in Vision Studio](https://www.youtube.com/watch?v=TSpPM3HDoxQ&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=3)
