@@ -54,7 +54,8 @@
 - [Analyze text with Language Studio](https://www.youtube.com/watch?v=_Brl2hkMwzg&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=5)
 - [Use Conversational Language Understanding with Language Studio](https://www.youtube.com/watch?v=FJOmWR0HG3s&list=PLA7hcqGIaR8klb49NS-64VCLfDN0ibrzb&index=6)
 - [Explore Azure AI Translator](https://www.youtube.com/watch?v=sQWbqquUs_k)
-
+  
+▶️ [more videos...](https://www.youtube.com/@startwithjana)
 <div align="right">
   <a href="https://youtube.com/@startwithjana?si=7tXRWEejwq2DGLgf">
     <img src="https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube">
