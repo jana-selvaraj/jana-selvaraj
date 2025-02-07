@@ -37,6 +37,7 @@
 
 # 📺 Latest YouTube Videos and Playlists
 ### DeepSeek-R1 Series
+- [Deploy DeepSeek R1 using Azure AI Foundry: Step-by-Step Implementation Guide](https://youtu.be/BkS8TVojQMk?si=Z7w4jI5lfgpvDkDs)
 - [Deploying a DeepSeek R1 using GitHub Model : Step-by-Step Guide](https://www.youtube.com/watch?v=1_ONF2pMnGQ)
 ### Agentic AI Series
 - [Develop AI Agents with Semantic Kernel](https://www.youtube.com/watch?v=TLI4P8aVH_I)
