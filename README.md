@@ -18,7 +18,7 @@
  </div>
 <hr>
 ✨ Step into my Tech Universe! ✨ <br>
-🚀 I am a Microsoft MVP, MCT Community Lead MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
+🚀 I am a Microsoft MVP, MCT Community Lead, MCT (Microsoft Certified Trainer), and Microsoft Learn Expert dedicated to empowering learners and professionals in the tech ecosystem.
 <br>📚I've crafted articles and blogs to guide others on their tech journeys. Sharing knowledge through writing, teaching, and mentoring is my true passion💡
 
 🌟 I specialize in AI, Microsoft Azure, Generative AI, and helping people unlock their potential with Microsoft technologies. <br>
