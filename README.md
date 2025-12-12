@@ -31,7 +31,9 @@
 # 📚 Latest Blog Posts 📚
 - [Work IQ: The Foundational Intelligence Layer for Modern Enterprise AI](https://www.c-sharpcorner.com/article/work-iq-the-foundational-intelligence-layer-for-modern-enterprise-ai/)
 - [Microsoft’s Work IQ, Fabric IQ & Foundry IQ Explained for the Agentic Enterprise](https://www.c-sharpcorner.com/article/microsofts-work-iq-fabric-iq-foundry-iq-explained-for-the-agentic-enterprise/)
-- [Transforming your Ideas into Reality with GPT4o](https://www.c-sharpcorner.com/article/transforming-your-ideas-into-reality-with-gpt4o/)
+- [Foundry IQ: Driving Smarter Agents Through Ubiquitous Knowledge](https://www.c-sharpcorner.com/article/foundry-iq-driving-smarter-agents-through-ubiquitous-knowledge/)
+- [Microsoft Foundry: Building the Enterprise AI Factory of the Future](https://www.c-sharpcorner.com/article/microsoft-foundry-building-the-enterprise-ai-factory-of-the-future/)
+- [Build an MCP Server with Azure AI Agent Service](https://www.c-sharpcorner.com/article/build-an-mcp-server-with-azure-ai-agent-service/)
 - [The Emergence of Small Langugage Models (SLM) - A Game Changer](https://www.c-sharpcorner.com/article/the-emergence-of-small-langugage-models-slm-a-game-changer/)
 - [Create Data Visualizations with Azure OpenAI Assistants](https://www.c-sharpcorner.com/article/create-data-visualizations-with-azure-openai-assistants/)
 - [Transforming your Ideas into Reality with GPT4o](https://www.c-sharpcorner.com/article/transforming-your-ideas-into-reality-with-gpt4o/)
